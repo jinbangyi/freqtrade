@@ -61,6 +61,7 @@ SUPPORTED_EXCHANGES = [
     "hyperliquid",
     "kraken",
     "okx",
+    "dbenny",
 ]
 
 # either the main, or replacement methods (array) is required

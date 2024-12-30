@@ -471,6 +471,18 @@ EXCHANGES = {
         "leverage_tiers_public": False,
         "leverage_in_spot_market": False,
     },
+    "dbenny": {
+        "pair": "PURR/USDC",
+        "stake_currency": "USDC",
+        "hasQuoteVolume": False,
+        "timeframe": "1h",
+        "futures": True,
+        "orderbook_max_entries": 20,
+        "futures_pair": "BTC/USDC:USDC",
+        "hasQuoteVolumeFutures": True,
+        "leverage_tiers_public": False,
+        "leverage_in_spot_market": False,
+    },
 }
 
 
